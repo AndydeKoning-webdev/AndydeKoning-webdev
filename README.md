@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndydeKoning-webdev
 - 👀 I’m interested in Wev development
-- 🌱 I’m currently learning React api
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Full stack web development
 - 📫 How to reach me https://andydekoning.nl
